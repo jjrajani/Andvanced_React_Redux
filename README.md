@@ -1,6 +1,6 @@
-Advanced React and Redux Course from Stephen Grider
+# Advanced React and Redux Course from Stephen Grider
 
-Course covers
+## Course covers
 
 ### Authentication
 * Express
